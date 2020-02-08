@@ -1,4 +1,5 @@
 
+#PIGLATIN_PIGLATIN
 
 def pig_latin(word):
     vowels = ['a','e','i','o','u']
